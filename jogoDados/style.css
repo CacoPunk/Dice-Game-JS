@@ -1,0 +1,25 @@
+* {
+    background-color: blueviolet;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px;
+    font-size: 8rem;
+    color: bisque;
+}
+
