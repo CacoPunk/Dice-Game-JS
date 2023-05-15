@@ -1,5 +1,5 @@
 * {
-    background-color: blueviolet;
+    background-color: rgb(132, 121, 142);
     font-family: 'Indie Flower', cursive;
 
 }
@@ -18,8 +18,17 @@
 h1{
     margin: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-shadow: 2px;
+    text-shadow: 3px, 3px,rgb(38, 34, 30);
     font-size: 8rem;
-    color: bisque;
+    color: rgb(38, 34, 30);
 }
 
+footer {
+    text-align: center;
+    margin-top: 5%;
+    color: black;
+}
+
+img {
+    width: 70%;
+}
